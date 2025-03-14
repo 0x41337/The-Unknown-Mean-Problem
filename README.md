@@ -39,3 +39,6 @@ Given an unknown population set
 $X$, we want an explicit mathematical equation that, when given a known sample set
 $\ohm$ and 2 or more possible new elements, determines which element should be chosen 
 to move the sample mean towards the population mean $\mu$, without needing to know it directly.
+
+## How to contribute
+You can post your answer as an issue here in this repository and I will be looking at them all.
